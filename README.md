@@ -42,7 +42,7 @@ PASS: AND max  | A=15 B=15 | result=15
 
 ## Waveform
 ![Waveform](waveform(binary).png)
-
+![Waveform](waveform(hexa).png)
 ## Tools used
 - Language: SystemVerilog
 - Simulator: Aldec Riviera-PRO (EDA Playground)
