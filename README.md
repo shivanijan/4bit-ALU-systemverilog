@@ -41,7 +41,7 @@ PASS: ADD zero | A=0 B=0 | result=0
 PASS: AND max  | A=15 B=15 | result=15
 
 ## Waveform
-![Waveform](waveform.png)
+![Waveform](waveform(binary).png)
 
 ## Tools used
 - Language: SystemVerilog
