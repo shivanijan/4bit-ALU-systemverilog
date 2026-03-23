@@ -40,6 +40,9 @@ PASS: DEFAULT| A=3 B=1 | result=0
 PASS: ADD zero | A=0 B=0 | result=0
 PASS: AND max  | A=15 B=15 | result=15
 
+## Waveform
+![Waveform](waveform.png)
+
 ## Tools used
 - Language: SystemVerilog
 - Simulator: Aldec Riviera-PRO (EDA Playground)
